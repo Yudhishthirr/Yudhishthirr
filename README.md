@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/ANSHU10997/Anshu10997/blob/main/Github-Top.jpeg)
 <h1 align="center">Hi 👋, I'm Yudhishthir Kumar </h1>
-<img align="right" alt="Coding" width="380" src="https://github.com/ANSHU10997/Anshu10997/blob/main/Github-.gif" />
+
 <h3 align="center">Student | Developer | Tech Enthusiast</h3>
 💫 About Me:
 🔭 I’m currently working on Agent SaaS <br>👯 I’m looking to collaborate on  Open Source Projects<br>🌱 I’m currently learning Devops <br>⚡ Fun fact 'The best way to debug is to write code that doesn't need debugging!'<br>📫 How to reach me : Connect on X
