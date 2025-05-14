@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/ANSHU10997/Anshu10997/blob/main/Github-Top.jpeg)
+![MasterHead](https://github.com/Yudhishthirr/Yudhishthirr/blob/main/yudhishthir.jpg)
 <h1 align="center">Hi 👋, I'm Yudhishthir Kumar </h1>
 
 <h3 align="center">Student | Developer | Tech Enthusiast</h3>
