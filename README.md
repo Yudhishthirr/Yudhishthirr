@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/Yudhishthirr/Yudhishthirr/blob/main/yudhishthir.jpg)
-<h1 align="center">Hi 👋, I'm Yudhishthir Kumar </h1>
+<h1 align="center">Hi 👋, I'm Yudhishthir </h1>
 
 <h3 align="center">Student | Developer | Tech Enthusiast</h3>
 💫 About Me:
